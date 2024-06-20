@@ -31,78 +31,77 @@
     }
   },
   "personalInfo": {
-    "name": "Arif Hossain",
+    "name": "Aman Jain",
     "title": "Full Stack Developer",
-    "location": "Dhaka, Bangladesh",
-    "bio": "I am a passionate full-stack developer with a strong background in building modern, scalable web applications. Lets collaborate andbring your ideas to life."
+    "location": "India",
+    "bio": "I am a passionate full-stack developer with a strong background in building modern, scalable web applications. Lets collaborate and bring your ideas to life."
   },
   "contactInfo": {
-    "email": "devarifhossain@gmail.com",
-    "phone": "123-456-7890",
-    "linkedin": "https://www.linkedin.com/in/ariflogs/",
-    "github": "https://github.com/ariflogs",
-    "twitter": "https://twitter.com/ariflogs",
-    "website": "https://johndoe.dev"
+    "email": "jainaman0744@gmail.com",
+    "phone": "+919826747763",
+    "linkedin": "https://www.linkedin.com/in/jainaman07/",
+    "github": "https://github.com/itzamanjain",
+    "twitter": "https://twitter.com/_devaman",
+    "website": "https://itsamanjain.co"
   },
   "skills": {
     "languages": ["JavaScript", "Python", "Java", "C++"],
-    "frameworks": ["React", "Node.js", "Express", "Django", "Spring Boot"],
+    "frameworks": ["React", "Node.js", "Express", "Next.Js", "Nest.Js"],
     "databases": ["MySQL", "MongoDB", "PostgreSQL"],
     "tools": ["Git", "Docker", "Kubernetes", "Jenkins", "AWS", "GCP"]
   },
   "projects": [
     {
       "id": "1",
-      "title": "Makers Tracker",
-      "description": "A project goal tracking tool for professionals. It let's you create project, assign goals and generate analytics to track progress",
-      "technologies": ["Typescript", "Next.js", "TailwindCSS", "MySQL"],
-      "live_url": "https://makerstracker.com",
-      "code_repo_url": "https://makerstracker.com",
+      "title": "EK Chai Pilade",
+      "description": "A Crowd Funding Platform for chai lovers. Users can contribute to the chai fund.",
+      "technologies": ["Typescript", "Next.js", "TailwindCSS", "MongoDB" , "Bcrypt", "JWT", "Axios"],
+      "live_url": "https://ekchaipilade.vercel.app",
+      "code_repo_url": "https://github.com/arihantdotcom/ekchaipilade",
       "cover": "/assets/project_1.jpeg"
     },
     {
       "id": "2",
-      "title": "Pricing Bees",
-      "description": "A no-code pricing page builder. Build professional-looking pricing pages, customize looks, and get detailed analytics to optimize your pricing strategy.",
-      "technologies": ["Typescript", "Next.js", "Shadcn/ui", "Convex"],
-      "live_url": "https://pricingbees.com",
-      "code_repo_url": "https://pricingbees.com",
+      "title": "AI DIARY",
+      "description": "Your Personal AI-Enhanced Diary Securely capture your thoughts, reflect with AI insights, and unlock your personal growth.",
+      "technologies": ["javascript", "Next.js", "TailwindCSS", "MongoDB","Bcrypt","JWT","Axios"],
+      "live_url": "https://buildspade-s5.vercel.app",
+      "code_repo_url": "https://github.com/itzamanjain/buildspace-s5",
       "cover": "/assets/project_2.jpeg"
     },
     {
       "id": "3",
-      "title": "Indie Hustles",
-      "description": "A listing site for Indie hackers to promote their products",
-      "technologies": ["Typescript", "Next.js", "TailwindCSS", "Airtable"],
-      "live_url": "https://indiehustles.com",
-      "code_repo_url": "https://indiehustles.com",
+      "title": "Testimonial Collector",
+      "description": "A web application to collect and display testimonials from users. Users can submit their feedback and view testimonials from other users.",
+      "technologies": ["javascript", "Next.js", "TailwindCSS", "MongoDB","Bcrypt","JWT","Axios"],
+      "live_url": "https://testimonial-io.vercel.app/",
+      "code_repo_url": "https://github.com/itzamanjain/testimonial-io",
       "cover": "/assets/project_3.jpeg"
     }
   ],
   "workExperience": [
     {
       "id": "1",
-      "company": "Tech Corp",
-      "companyWebsite": "https://example.com",
-      "role": "Senior Full Stack Developer",
-      "startDate": "Jan 2020",
+      "company": "AI DIARY",
+      "companyWebsite": "https://buildspace-s5.vercel.app",
+      "role": "Founder & Developer",
+      "startDate": "June 2024",
       "endDate": "Present",
-      "technologies": ["Socket.io", "Node.js", "Express", "React"],
+      "technologies": ["Next.js", "Node.js", "Express", "React"],
       "keyResponsibilities": [
-        "Led a team of developers to create scalable web applications.",
         "Implemented RESTful and GraphQL APIs using Node.js and Express.",
         "Developed front-end applications using React and Next.js.",
         "Integrated third-party services and APIs to enhance application functionality.",
-        "Mentored junior developers and conducted code reviews."
+        "Managed project timelines and deliverables to ensure on-time completion."
       ]
     },
     {
       "id": "2",
-      "company": "Web Solutions",
-      "companyWebsite": "https://example.com",
-      "role": "Full Stack Developer",
-      "startDate": "Jun 2017",
-      "endDate": "Dec 2019",
+      "company": "JWiRES PVT LTD",
+      "companyWebsite": "https://jwires.in",
+      "role": "Web Developer",
+      "startDate": "Jan 2024",
+      "endDate": "Mar 2024",
       "technologies": ["MongoDB", "Express", "React", "Node.js"],
       "keyResponsibilities": [
         "Designed and developed web applications using JavaScript and React.",
@@ -124,11 +123,11 @@
     },
     {
       "id": "2",
-      "institution": "University of California, Berkeley",
-      "degree": "Bachelor of Science in Computer Science",
+      "institution": "Teerthanker Mahaveer University",
+      "degree": "Bachelor of Technology in Computer Science",
       "description": "Completed a comprehensive curriculum in computer science, including courses in data structures, algorithms, software engineering, and artificial intelligence. Worked on several projects, including a web application for managing student organizations and a mobile app for tracking fitness activities.",
-      "startDate": "Sep 2013",
-      "endDate": "May 2017"
+      "startDate": "Sep 2022",
+      "endDate": "May 2026"
     }
   ],
   "testimonials": [

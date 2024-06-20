@@ -7,7 +7,7 @@ export default function Footer() {
       <p className="text-sm text-gray-400 text-center">
         Copyright ©
         <Link href="https://x.com/ariflogs" className="ml-1 text-primary">
-          Arif Hossain
+          Aman Jain
         </Link>
       </p>
     </footer>

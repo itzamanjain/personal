@@ -29,13 +29,13 @@ export default async function Home() {
       {/* Banner Section */}
       <section id="home" className="container max-w-5xl mx-auto py-24 lg:py-32">
         <div className="flex flex-col lg:flex-row items-center justify-center gap-12">
-          <div className="w-1/2 mx-auto lg:w-1/3">
+          <div className="w-1/2 mx-auto lg:w-1/3" >
             <Image
               src="/assets/profile.jpg"
               width={280}
               height={280}
               alt="Developer"
-              className="mx-auto aspect-square overflow-hidden object-cover object-center rounded-full border"
+              className="mx-auto aspect-square overflow-hidden object-cover object-center rounded-full border bg-transparent"
             />
           </div>
           <div className="w-full lg:w-2/3 space-y-4">
