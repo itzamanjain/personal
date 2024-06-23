@@ -133,19 +133,19 @@
   "testimonials": [
     {
       "id": "1",
-      "name": "Jane Smith",
+      "name": "Gaurav Pandey",
       "avatar": "/assets/testimonial_1_avatar.jpg",
-      "title": "Project Manager",
-      "company": "Tech Solutions Inc.",
-      "feedback": "John is a fantastic developer who consistently delivers high-quality work. His ability to solve complex problems is impressive."
+      "title": "Manager",
+      "company": "J-WiRES PVT LTD",
+      "feedback": "Aman is a fantastic developer who consistently delivers high-quality work. His ability to solve complex problems is impressive."
     },
     {
       "id": "2",
-      "name": "Mike Johnson",
+      "name": "Sakshat Sachedeva",
       "avatar": "/assets/testimonial_2_avatar.jpg",
-      "title": "CEO",
-      "company": "Web Innovators LLC",
-      "feedback": "John is a highly skilled developer who brings a lot of value to our projects. His expertise in full stack development is top-notch."
+      "title": "Founder",
+      "company": "VentureCatalyst",
+      "feedback": "Aman is a highly skilled developer who brings a lot of value to our projects. His expertise in full stack development is top-notch."
     }
   ]
 }
