@@ -6,7 +6,7 @@ export default function Footer() {
     <footer className="py-4 container border-t mt-20">
       <p className="text-sm text-gray-400 text-center">
         Copyright ©
-        <Link href="https://x.com/ariflogs" className="ml-1 text-primary">
+        <Link href="/" className="ml-1 text-primary">
           Aman Jain
         </Link>
       </p>
