@@ -76,7 +76,7 @@
       "technologies": ["javascript", "Next.js", "TailwindCSS", "MongoDB","Bcrypt","JWT","Axios"],
       "live_url": "https://testimonial-io.vercel.app/",
       "code_repo_url": "https://github.com/itzamanjain/testimonial-io",
-      "cover": "/assets/project_3.jpeg"
+      "cover": "/assets/testimonial-home.png"
     }
   ],
   "workExperience": [
