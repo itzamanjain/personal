@@ -20,6 +20,7 @@ import {
 } from "@radix-ui/react-icons";
 import { Avatar } from "@/components/ui/avatar";
 import Image from "next/image";
+import { Link2 } from "lucide-react";
 
 export default async function Home() {
   const data = await getData();
@@ -82,9 +83,10 @@ export default async function Home() {
                   <EnvelopeClosedIcon className="h-4 w-4" />
                 </Button>
               </Link>
-              <Link href="/assets/resume.pdf" download="aman_resume.pdf" className="bg-blue-500 p-2 text-white rounded-full">
+              <Link href="/assets/resume.pdf" download="aman_resume.pdf" className="bg-blue-500 block w-[200px] mt-4 p-2 text-white text-center rounded-full">
                 Download Resume
               </Link>
+
 
             </div>
           </div>
