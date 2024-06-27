@@ -82,6 +82,10 @@ export default async function Home() {
                   <EnvelopeClosedIcon className="h-4 w-4" />
                 </Button>
               </Link>
+              <Link href="/assets/resume.pdf" download="aman_resume.pdf" className="bg-blue-500 p-2 text-white rounded-full">
+                Download Resume
+              </Link>
+
             </div>
           </div>
         </div>
