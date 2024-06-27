@@ -76,7 +76,7 @@
       "technologies": ["javascript", "Next.js", "TailwindCSS", "MongoDB","Bcrypt","JWT","Axios"],
       "live_url": "https://testimonial-io.vercel.app/",
       "code_repo_url": "https://github.com/itzamanjain/testimonial-io",
-      "cover": "/assets/project_3.jpeg"
+      "cover": "/assets/testimonial-home.png"
     }
   ],
   "workExperience": [
@@ -115,11 +115,11 @@
   "education": [
     {
       "id": "1",
-      "institution": "Coursera",
-      "degree": "Full Stack Web Development with React",
-      "description": "Completed a Coursera specialization that focused on building full-stack web applications using React, Node.js, Express, and MongoDB. Learned best practices for designing and implementing responsive, scalable, and secure web applications.",
-      "startDate": "Sep 2013",
-      "endDate": "May 2017"
+      "institution": "Frontend Masters",
+      "degree": "Full Stack Web Development",
+      "description": "Completed a Course specialization that focused on building full-stack web applications using React, Node.js, Express, and MongoDB. Learned best practices for designing and implementing responsive, scalable, and secure web applications.",
+      "startDate": "Sep 2023",
+      "endDate": "Jan 2024"
     },
     {
       "id": "2",
@@ -133,19 +133,19 @@
   "testimonials": [
     {
       "id": "1",
-      "name": "Jane Smith",
-      "avatar": "/assets/testimonial_1_avatar.jpg",
-      "title": "Project Manager",
-      "company": "Tech Solutions Inc.",
-      "feedback": "John is a fantastic developer who consistently delivers high-quality work. His ability to solve complex problems is impressive."
+      "name": "Gaurav Pandey",
+      "avatar": "/assets/logo.png",
+      "title": "Manager",
+      "company": "J-WiRES PVT LTD",
+      "feedback": "Aman is a fantastic developer who consistently delivers high-quality work. His ability to solve complex problems is impressive."
     },
     {
       "id": "2",
-      "name": "Mike Johnson",
-      "avatar": "/assets/testimonial_2_avatar.jpg",
-      "title": "CEO",
-      "company": "Web Innovators LLC",
-      "feedback": "John is a highly skilled developer who brings a lot of value to our projects. His expertise in full stack development is top-notch."
+      "name": "Sakshat Sachedeva",
+      "avatar": "/assets/logo.jpg",
+      "title": "Founder",
+      "company": "VentureCatalyst",
+      "feedback": "Aman is a highly skilled developer who brings a lot of value to our projects. His expertise in full stack development is top-notch."
     }
   ]
 }
