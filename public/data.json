@@ -82,9 +82,9 @@
   "workExperience": [
     {
       "id": "1",
-      "company": "AI DIARY",
-      "companyWebsite": "https://buildspace-s5.vercel.app",
-      "role": "Founder & Developer",
+      "company": "Venture Catalyst",
+      "companyWebsite": "https://venture-catalyst.vercel.app",
+      "role": "Backend Developer",
       "startDate": "June 2024",
       "endDate": "Present",
       "technologies": ["Next.js", "Node.js", "Express", "React"],
