@@ -34,18 +34,18 @@
     "name": "Aman Jain",
     "title": "Full Stack Developer",
     "location": "India",
-    "bio": "I am a passionate full-stack developer with a strong background in building modern, scalable web applications. Lets collaborate and bring your ideas to life."
+    "bio": "I am a full-stack developer with a strong background in building modern, scalable web applications. Lets collaborate and bring your ideas to life."
   },
   "contactInfo": {
     "email": "jainaman0744@gmail.com",
     "phone": "+919826747763",
     "linkedin": "https://www.linkedin.com/in/jainaman07/",
     "github": "https://github.com/itzamanjain",
-    "twitter": "https://twitter.com/_devaman",
+    "twitter": "https://twitter.com/iamancoder",
     "website": "https://itsamanjain.co"
   },
   "skills": {
-    "languages": ["JavaScript", "Python", "Java", "C++"],
+    "languages": ["JavaScript","Typescript","Python", "Java", "C++"],
     "frameworks": ["React", "Node.js", "Express", "Next.Js", "Nest.Js"],
     "databases": ["MySQL", "MongoDB", "PostgreSQL"],
     "tools": ["Git", "Docker", "Kubernetes", "Jenkins", "AWS", "GCP"]
@@ -53,20 +53,20 @@
   "projects": [
     {
       "id": "1",
-      "title": "EK Chai Pilade",
-      "description": "A Crowd Funding Platform for chai lovers. Users can contribute to the chai fund.",
-      "technologies": ["Typescript", "Next.js", "TailwindCSS", "MongoDB" , "Bcrypt", "JWT", "Axios"],
-      "live_url": "https://ekchaipilade.vercel.app",
-      "code_repo_url": "https://github.com/arihantdotcom/ekchaipilade",
+      "title": "Type Arena",
+      "description": "TypeArena is a cutting-edge platform designed to help individuals improve their typing skills through engaging challenges and competitions. Our mission is to make typing practice fun, social, and rewarding",
+      "technologies": ["Typescript", "Next.js", "TailwindCSS", "Socket.io" , "Bcrypt", "Axios"],
+      "live_url": "https://type-arena-two.vercel.app/",
+      "code_repo_url": "https://github.com/itzamanjain/typearena",
       "cover": "/assets/project_1.jpeg"
     },
     {
       "id": "2",
-      "title": "AI DIARY",
-      "description": "Your Personal AI-Enhanced Diary Securely capture your thoughts, reflect with AI insights, and unlock your personal growth.",
-      "technologies": ["javascript", "Next.js", "TailwindCSS", "MongoDB","Bcrypt","JWT","Axios"],
-      "live_url": "https://buildspade-s5.vercel.app",
-      "code_repo_url": "https://github.com/itzamanjain/buildspace-s5",
+      "title": "Spectrum UI",
+      "description": "Spectrum UI is a collection of re-usable components built using Aceternity UI Magic UI and ShadCN UI that you can copy and paste into your apps",
+      "technologies": ["javascript", "Next.js", "TailwindCSS", "Shan Cn","Axios","etc.."],
+      "live_url": "https://spectrumui.arihant.us/",
+      "code_repo_url": "https://github.com/itzamanjain/spectrum-ui",
       "cover": "/assets/project_2.jpeg"
     },
     {
